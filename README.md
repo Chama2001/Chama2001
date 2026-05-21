@@ -1,7 +1,7 @@
 # Hey 👋, I'm Chamali Liyanage
 
-### Software Engineering Student | Tech Entrepreneur | Founder & CEO at LIYANOVATE | Karate Black Belt 2nd Dan Coach
-🚩
+### Software Engineering Student | Tech Entrepreneur | Founder & CEO at LIYANOVATE | Karate Coach
+                                                🚩
 <p align="left">
   <img src="https://img.shields.io/badge/Profile_Views-Active-0e76a8?style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Chama2001?label=Followers&style=flat-square&color=2ea44f" alt="Followers" />
