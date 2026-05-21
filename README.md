@@ -6,16 +6,10 @@ I am a passionate **Software Engineering Student** and the **Founder & CEO of LI
 
 ### 💻 Tech Stack & Tools
 
-**Frontend & Backend:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Databases & AI:** ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-121011?style=for-the-badge&logo=googlegemini&logoColor=white)
+* **Frontend:** Next.js | JavaScript | HTML5 | CSS3
+* **Backend:** Python | Flask 
+* **Databases:** MySQL | SQLite
+* **AI & Deep Learning:** EfficientNetB0 | Gemini API | Hybrid Intelligence
 
 ---
 
@@ -25,14 +19,6 @@ I am a passionate **Software Engineering Student** and the **Founder & CEO of LI
 * 🤖 **Ayubowan AI** - A cultural mentorship chatbot utilizing hybrid intelligence (SQLite knowledge base + Gemini API) for tourists.
 * 💳 **Smart POS System** - A business automation platform built with Python.
 * 🧠 **UniMatch AI** - An intelligent course recommendation system for Sri Lankan private universities.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chama2001&theme=transparent&show_icons=true&rank_icon=github" alt="Chamali's GitHub Stats" />
-</p>
 
 ---
 
@@ -47,14 +33,6 @@ I am a passionate **Software Engineering Student** and the **Founder & CEO of LI
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/chamali-l-liyanage-45aa6b261/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/people/Chamali-L-Liyanage/100074444728311/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://chamaliliyanage.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+* 💼 **LinkedIn:** [linkedin.com/in/chamali-l-liyanage](https://linkedin.com/in/chamali-l-liyanage-45aa6b261/)
+* 📘 **Facebook:** [Chamali L Liyanage on Facebook](https://www.facebook.com/people/Chamali-L-Liyanage/100074444728311/)
+* 🌐 **Portfolio:** [chamaliliyanage.netlify.app](https://chamaliliyanage.netlify.app/)
