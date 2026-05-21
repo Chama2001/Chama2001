@@ -11,13 +11,13 @@
   <img src="Untitled design.png" alt="Chamali Liyanage" width="100%" />
 </p>
 
-I'm a **Software Engineering Student** and **Tech Speaker** specializing in artificial intelligence, deep learning, and modern web development. My journey in technology is driven by a passion for innovation and a commitment to empowering the next generation of developers.
+I'm a Software Engineering Student and Tech Entrepreneur specializing in artificial intelligence, hybrid intelligence, and modern web applications. My journey in technology is driven by a passion for continuous innovation, scalable coding architectures, and empowering the next generation of creators.
 
-As a **Software Engineering Student** and tech enthusiast, I bridge the gap between cutting-edge technology and aspiring developers. My expertise spans across **AI/ML integration**, **Web Development**, and full-stack architecture. I work extensively with **Next.js, Python, Flask, JavaScript, and MySQL** to build scalable, enterprise-grade solutions.
+As the Founder and CEO of LIYANOVATE, I bridge the gap between complex digital tech and practical business automation. My engineering expertise spans across Deep Learning integrations (EfficientNetB0), Generative AI systems utilizing the Gemini API, and high-performance web ecosystems. I work extensively with Next.js, Python, Flask, JavaScript, and MySQL to architect intelligent, enterprise-grade digital platforms.
 
-My professional endeavors include building AI-powered applications, architecting intelligent web solutions, and developing cross-platform user experiences. As the **Founder of LIYANOVATE**, I'm building smart solutions, connecting technology and automation through a trusted, sustainable ecosystem. I also maintain an active presence as a tech leader, where I share insights on **technology trends**, **digital transformation**, and **career development**, supporting professionals in navigating the evolving tech landscape.
+My professional endeavors focus on building robust AI-driven web architectures, developing cultural chatbot solutions, and optimizing relational databases. Beyond the terminal, I maintain an active presence as an emerging thought leader, where I share insights on AI engineering, personal digital branding, and entrepreneurial growth, supporting aspiring students and professionals in navigating the modern tech landscape.
 
-Through speaking engagements at conferences and tech meetups, I inspire developers to embrace modern technologies and API-first development practices. I'm committed to delivering innovative solutions that drive technological advancement.
+Through active engagement with global developer communities like Google Women Techmakers and GDG Sri Lanka, I inspire newcomers to embrace open-source collaboration and innovative project deployment. I channel focus, precise logic, and elite performance into both my source code and my martial arts discipline as a Karate Black Belt 2nd Dan Coach, while continuously refining my public leadership at the Anuradhapura Toastmasters Club.
 
 | 💡 Mentorship | 🎤 Speaking | 🔧 Consulting | 📚 Content Creation |
 | :---: | :---: | :---: | :---: |
