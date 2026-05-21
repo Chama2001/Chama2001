@@ -25,10 +25,10 @@ Through speaking engagements at conferences and tech meetups, I inspire develope
 
 <p align="center">
   <a href="https://linkedin.com/in/chamali-l-liyanage-45aa6b261/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" style="margin: 0 10px;" />
   </a>
   <a href="https://www.facebook.com/people/Chamali-L-Liyanage/100074444728311/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" style="margin: 0 10px;" />
   </a>
 </p>
 
