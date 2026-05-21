@@ -36,6 +36,9 @@ Through active engagement with global developer communities like **Google Women 
   <a href="https://www.youtube.com/@chami2001liya" target="_blank">
   <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
+  <a href="https://whatsapp.com/channel/0029VbB6h9fJf05ZjssGTP0P" target="_blank">
+  <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 </p>
 
 💬 "Your partner is a Innovator 🤍"
