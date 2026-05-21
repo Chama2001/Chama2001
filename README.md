@@ -1,9 +1,5 @@
 # Hi there, I'm Chamali Liyanage! 👋 
 
-<p align="left">
-  <img src="https://komarev.com/ghvc/?username=Chama2001&label=Profile%20Views&color=0e76a8&style=flat" alt="Chama2001" />
-</p>
-
 I am a passionate **Software Engineering Student** and the **Founder & CEO of LIYANOVATE**. I love building smart web applications and exploring the future of technology, especially AI and automated business solutions.
 
 ---
@@ -32,11 +28,10 @@ I am a passionate **Software Engineering Student** and the **Founder & CEO of LI
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Chama2001&show_icons=true&theme=tokyonight&count_private=true" alt="Chamali's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chama2001&theme=tokyonight" alt="Chamali's GitHub Streak" height="180px" />
 </p>
 
 ---
