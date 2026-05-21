@@ -19,9 +19,9 @@ My professional endeavors focus on building robust **AI-driven web architectures
 
 Through active engagement with global developer communities like **Google Women Techmakers** and **GDG Sri Lanka**, I inspire newcomers to embrace open-source collaboration and innovative project deployment. I channel focus, precise logic, and elite performance into both my source code and my martial arts discipline as a **Karate Black Belt 2nd Dan Coach**, while continuously refining my public leadership at the **Anuradhapura Toastmasters Club**.
 
-| 💡 Mentorship | 🎤 Speaking | 🔧 Consulting | 📚 Content Creation |
+| 💡 Tech Innovation | 🎤 Public Speaking | 🥋 Mindset & Leadership | 📚 Content Creation |
 | :---: | :---: | :---: | :---: |
-| Guiding developers in AI, web technologies, and modern web development | Available for tech conferences, workshops, and community events | Expertise in software technologies, development, and AI solutions | I create technical writing and educational content on GitHub and LinkedIn. |
+| Building smart AI-driven web apps and enterprise automation with LIYANOVATE. | Delivering engaging ideas and sharpening leadership at Toastmasters. | Cultivating discipline, focus, and strategic thinking through Karate coaching. | Sharing knowledge on AI engineering and personal digital branding on LinkedIn. |
 
 <p align="center">
   <a href="https://linkedin.com/in/chamali-l-liyanage-45aa6b261/" target="_blank">
