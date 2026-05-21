@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="my-grid.png" alt="Chamali Liyanage" width="100%" />
+  <img src="Untitled design.png" alt="Chamali Liyanage" width="100%" />
 </p>
 
 I'm a **Software Engineering Student** and **Tech Speaker** specializing in artificial intelligence, deep learning, and modern web development. My journey in technology is driven by a passion for innovation and a commitment to empowering the next generation of developers.
