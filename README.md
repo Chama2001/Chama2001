@@ -24,8 +24,12 @@ Through speaking engagements at conferences and tech meetups, I inspire develope
 | Guiding developers in AI, web technologies, and modern web development | Available for tech conferences, workshops, and community events | Expertise in software technologies, development, and AI solutions | I create technical writing and educational content on GitHub and LinkedIn. |
 
 <p align="center">
-  <a href="https://linkedin.com/in/chamali-l-liyanage-45aa6b261/" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/io-guthub-badges/1.0.0/linkedin.svg" alt="LinkedIn" width="30px" style="margin: 0 10px;"/></a>
-  <a href="https://www.facebook.com/people/Chamali-L-Liyanage/100074444728311/" target="_blank"><img src="https://cdnjs.cloudflare.com/ajax/libs/io-guthub-badges/1.0.0/facebook.svg" alt="Facebook" width="30px" style="margin: 0 10px;"/></a>
+  <a href="https://linkedin.com/in/chamali-l-liyanage-45aa6b261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/people/Chamali-L-Liyanage/100074444728311/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 💬 "Empowering the next generation of developers through technology, mentorship, and innovation"
