@@ -32,6 +32,6 @@ Through active engagement with global developer communities like **Google Women 
   </a>
 </p>
 
-💬 "Empowering the next generation of developers through technology, mentorship, and innovation"
+💬 "Your partner is a Innovator 🤍"
 
 <p align="center">Open to collaborations • Speaking opportunities • Mentorship</p>
