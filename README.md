@@ -2,9 +2,8 @@
 
 ### Software Engineering Student | Tech Entrepreneur | Founder & CEO at LIYANOVATE | Karate Black Belt 2nd Dan Coach
 🚩
-
 <p align="left">
-  <img src="https://komarev.com/ghvc/?username=Chama2001&label=Profile%20views&color=0e76a8&style=flat-square" alt="Profile Views" />
+  <img src="https://twisur.vercel.app/api?id=Chama2001&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Chama2001?label=Followers&style=flat-square&color=2ea44f" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Chama2001?style=flat-square&color=dfb317&label=Total%20Stars" alt="Total Stars" />
 </p>
