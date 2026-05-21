@@ -31,7 +31,7 @@ I am a passionate **Software Engineering Student** and the **Founder & CEO of LI
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chama2001&show_icons=true&theme=tokyonight&count_private=true" alt="Chamali's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chama2001&theme=transparent&show_icons=true&rank_icon=github" alt="Chamali's GitHub Stats" />
 </p>
 
 ---
