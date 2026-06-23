@@ -41,13 +41,6 @@ Through active engagement with global developer communities like **Google Women 
 </a>
 </p>
 
----
-
-## 📚 My Technical Learning Hub
-මම තාක්‍ෂණික ලෝකයේ අලුතින් ඉගෙනගන්නා දේවල් සහ සංකල්ප සටහන් කර තබන මගේ සටහන් පොත් එකතුව:
-
-* 🤖 [AI & LLM Core Concepts](https://github.com/Chama2001/AI-and-LLM-Core-Concepts) - RAG, Prompt Engineering, සහ AI Agents / Fine-Tuning පිළිබඳ මා විසින් ලියන ලද සරල තාක්ෂණික සටහන්.
-* 
 💬 "Your partner is a Innovator 🤍"
 
 <p align="center">Open to collaborations • Speaking opportunities • Mentorship</p>
