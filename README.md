@@ -2,7 +2,7 @@
 
 ### Software Engineering Student | Tech Entrepreneur | Founder & CEO at LIYANOVATE | Karate Coach 🚩
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Chama2001&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FChama2001&label=Profile%20Views&countColor=%230e76a8" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Chama2001?label=Followers&style=flat-square&color=2ea44f" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Chama2001?style=flat-square&color=dfb317&label=Total%20Stars" alt="Total Stars" />
 </p>
