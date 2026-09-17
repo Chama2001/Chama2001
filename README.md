@@ -17,7 +17,7 @@ As the **Founder and CEO of LIYANOVATE**, I bridge the gap between complex digit
 
 My professional endeavors focus on building robust **AI-driven web architectures**, developing cultural chatbot solutions, and optimizing relational databases. Beyond the terminal, I maintain an active presence as an emerging thought leader, where I share insights on **AI engineering**, **personal digital branding**, and **entrepreneurial growth**, supporting aspiring students and professionals in navigating the modern tech landscape.
 
-Through active engagement with global developer communities like **Google Women Techmakers** and **GDG Sri Lanka**, I inspire newcomers to embrace open-source collaboration and innovative project deployment. I channel focus, precise logic, and elite performance into both my source code and my martial arts discipline as a **Karate Black Belt 2nd Dan Coach**, while continuously refining my public leadership at the **Anuradhapura Toastmasters Club**.
+Through active engagement with global developer communities like **Google Women Techmakers** and **GDG Sri Lanka**, I inspire newcomers to embrace open-source collaboration and innovative project deployment. I channel focus, precise logic, and elite performance into both my source code and my martial arts discipline as a **Karate Black Belt 2nd Dan Coach**, while continuously refining my public leadership at the **Anuradhapura Toastmasters Club**(VPPR).
 
 | 💡 Tech Innovation | 🎤 Public Speaking | 🥋 Mindset & Leadership | 📚 Content Creation |
 | :---: | :---: | :---: | :---: |
