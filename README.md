@@ -1,4 +1,4 @@
-# Hey 👋, I'm Chamali L Liyanage
+# Hey 👋, I'm Chamali Liyanage
 
 ### Software Engineering Student | Tech Entrepreneur | Founder & CEO at LIYANOVATE | Karate Coach 
 <p align="left">
