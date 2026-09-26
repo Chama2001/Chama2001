@@ -23,6 +23,16 @@ Through active engagement with global developer communities like **Google Women 
 | :---: | :---: | :---: | :---: |
 | Building smart AI-driven web apps and enterprise automation with LIYANOVATE. | Delivering engaging ideas and sharpening leadership at Toastmasters. | Cultivating discipline, focus, and strategic thinking through Karate coaching. | Sharing knowledge on AI engineering and personal digital branding on LinkedIn. |
 
+---
+
+### 📚 Publications & Research
+
+* **SkinCareAI: Skin Disease Classification System using EfficientNetB0 and Grad-CAM**
+  * *Conference:* ESOFT International Conference (EICON 2026) at ESU Kandy (August 30, 2026).
+  * *Overview:* Presented a comprehensive research paper on medical image classification pipelines, leveraging deep learning architectures and explainable AI (Grad-CAM) for skin disease detection.
+
+---
+
 <p align="center">
   <a href="https://linkedin.com/in/chamali-l-liyanage-45aa6b261/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" style="margin: 0 10px;" />
