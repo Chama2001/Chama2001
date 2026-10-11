@@ -1,6 +1,6 @@
 # Hey 👋, I'm Chamali L Liyanage.
 
-### Software Engineering Graduate | Tech Entrepreneur | Founder & CEO at LIYANOVATE | Karate Instrouctor 
+### Software Engineering Graduate | Tech Entrepreneur | Founder & CEO at LIYANOVATE | Microsoft Learn Student Ambassador | Karate Instructor 
 <p align="left">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FChama2001&label=Profile%20Views&countColor=%230e76a8" alt="Profile Views" height="20" />
   <img src="https://img.shields.io/github/followers/Chama2001?label=Followers&style=flat-square&color=2ea44f" alt="Followers" />
@@ -17,7 +17,7 @@ As the **Founder and CEO of LIYANOVATE**, I bridge the gap between complex digit
 
 My professional endeavors focus on building robust **AI-driven web architectures**, developing cultural chatbot solutions, and optimizing relational databases. Beyond the terminal, I maintain an active presence as an emerging thought leader, where I share insights on **AI engineering**, **personal digital branding**, and **entrepreneurial growth**, supporting aspiring students and professionals in navigating the modern tech landscape.
 
-Through active engagement with global developer communities like **Google Women Techmakers** and **GDG Sri Lanka**, I inspire newcomers to embrace open-source collaboration and innovative project deployment. I channel focus, precise logic, and elite performance into both my source code and my martial arts discipline as a **Karate Black Belt 2nd Dan Coach**, while continuously refining my public leadership at the **Anuradhapura Toastmasters Club** (VPPR).
+Through active engagement with global developer communities as a **Microsoft Learn Student Ambassador**, and as a member of **Google Women Techmakers** and **GDG Sri Lanka**, I inspire newcomers to embrace open-source collaboration and innovative project deployment. I channel focus, precise logic, and elite performance into both my source code and my martial arts discipline as a **Karate Black Belt 2nd Dan Coach**, while continuously refining my public leadership at the **Anuradhapura Toastmasters Club** (VPPR).
 
 | 💡 Tech Innovation | 🎤 Public Speaking | 🥋 Mindset & Leadership | 📚 Content Creation |
 | :---: | :---: | :---: | :---: |
@@ -27,7 +27,7 @@ Through active engagement with global developer communities like **Google Women 
 
 ### 📚 Publications & Research
 
-* **SkinCareAI: Skin Disease Classification System using EfficientNetB0 and Grad-CAM**
+- **SkinCareAI: Skin Disease Classification System using EfficientNetB0 and Grad-CAM**
   * *Conference:* ESOFT International Conference (EICON 2026) at ESU Kandy (August 30, 2026).
   * *Overview:* Presented a comprehensive research paper on medical image classification pipelines, leveraging deep learning architectures and explainable AI (Grad-CAM) for skin disease detection.
 
