@@ -1,4 +1,4 @@
-# Hey 👋, I'm Chamali L Liyanage.
+# Hey! 👋, I'm Chamali L Liyanage.
 
 ### Software Engineering Graduate | Tech Entrepreneur | Founder & CEO at LIYANOVATE | Microsoft Learn Student Ambassador | Karate Instructor 
 <p align="left">
